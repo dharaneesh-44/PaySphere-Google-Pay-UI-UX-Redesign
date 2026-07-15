@@ -104,8 +104,7 @@ Designed with simplicity, accessibility, and consistency in mind, the interface 
 **Design File:**  
 https://www.figma.com/file/YOUR_FIGMA_FILE_LINK
 
-**Prototype (Optional):**  
-https://www.figma.com/proto/YOUR_PROTOTYPE_LINK
+https://www.figma.com/design/z7HUZNeS9hOFWJ2ENHzv3f/gpay?node-id=0-1&t=i4vKAGpllwsrhssR-1
 
 ---
 
